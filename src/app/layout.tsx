@@ -24,9 +24,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${interFont.className} ${poppinsFont.variable} h-full antialiased`}
+      className={`${interFont.className} ${poppinsFont.variable} h-full antialiased scroll-smooth`}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col bg-col-6">
         <Navbar />
         {children}
         <Footer />
