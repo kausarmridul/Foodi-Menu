@@ -57,7 +57,7 @@ const Navbar = () => {
             ))}
           </ul>
           <div className="flex items-center gap-2 sm:gap-3">
-            <button className="flex items-center gap-2 lg:gap-3.5 bg-col-2 text-white text-base lg:text-xl py-2.5 lg:py-3.55 rounded-full px-5 sm:px-6 lg:px-8.5">
+            <button className="flex items-center gap-2 lg:gap-3.5 bg-col-2 text-white text-base lg:text-xl py-2.5 lg:py-3.55 rounded-full px-5 sm:px-6 lg:px-8.5 primaryHover">
               <BiPhoneCall className="text-xl lg:text-2xl" /> Contact
             </button>
             <button

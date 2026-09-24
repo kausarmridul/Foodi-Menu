@@ -11,9 +11,12 @@
   --color-col-7: #ff6868;
   --color-col-8: #c1f1c6;
   --color-col-9: #555;
+  --color-col-10: #ffe605;
+  --color-col-11: #454545;
   --shadow-col-1: -2px 22px 38px 0px #8eff9a80;
   --shadow-col-2: 6px 27px 34px 0px #0000001a;
   --shadow-col-3: 2px 10px 30px 0px #0000001a;
+  --shadow-col-4: 2px 9px 42px 0px #00000014;
 }
 
 @layer base {
