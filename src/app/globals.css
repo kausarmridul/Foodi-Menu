@@ -13,10 +13,16 @@
   --color-col-9: #555;
   --color-col-10: #ffe605;
   --color-col-11: #454545;
+  --color-col-12: #807e7e;
+  --color-col-13: #5fe26c;
+  --color-col-14: #90bd95;
+  --color-col-15: #edffef;
+  --color-col-16: #484848;
   --shadow-col-1: -2px 22px 38px 0px #8eff9a80;
   --shadow-col-2: 6px 27px 34px 0px #0000001a;
   --shadow-col-3: 2px 10px 30px 0px #0000001a;
   --shadow-col-4: 2px 9px 42px 0px #00000014;
+  --shadow-col-5: 7px 12px 43px 0px #00000024;
 }
 
 @layer base {

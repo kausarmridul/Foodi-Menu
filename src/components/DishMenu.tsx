@@ -5,7 +5,7 @@ import { FaHeart, FaRegHeart, FaStar } from "react-icons/fa6";
 
 const DishMenu = () => {
   return (
-    <section className="lg:pt-30 pt-15">
+    <section className="lg:pt-30 pt-15 scroll-mt-10 lg:pb-27.5 pb-10" id="menu">
       <Container>
         <div className="mb-15">
           <p className="font-bold text-base lg:text-xl lg:tracking-[17.5%] uppercase text-col-7 mb-7.25">
