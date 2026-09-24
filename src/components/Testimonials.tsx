@@ -5,7 +5,7 @@ import { FaStar } from "react-icons/fa6";
 
 const Testimonials = () => {
   return (
-    <section className="lg:py-27.5 py-10 scroll-mt-10" id="offers">
+    <section className="lg:py-27.5 py-10 scroll-mt-20" id="offers">
       <Container className="grid lg:grid-cols-2 gap-8 lg:items-center">
         <div>
           <Image

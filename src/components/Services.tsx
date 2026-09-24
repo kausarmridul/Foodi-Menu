@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Services = () => {
   return (
-    <section id="services" className="scroll-mt-10 lg:py-27.5 py-10">
+    <section id="services" className="scroll-mt-20 lg:py-27.5 py-10">
       <Container className="grid lg:grid-cols-2 gap-20 lg:gap-8 lg:items-center">
         <div>
           <p className="font-bold text-base lg:text-xl lg:tracking-[17.5%] uppercase text-col-7 mb-7.25 lg:mb-13.25">
